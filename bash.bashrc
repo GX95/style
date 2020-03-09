@@ -1,9 +1,9 @@
 
-echo "     K E P O     "
+
+echo "youtube : Din-zUgex95"
 
 
 
 
-      echo "   apa lo kontol   "
       echo "     GAK SUKA   "
       echo "  TERSERAH GW ASUUU  "
